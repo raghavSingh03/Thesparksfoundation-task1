@@ -1,0 +1,2 @@
+# Thesparksfoundation-task1
+I am delighted to share that I have successfully completed TASK #1 Prediction using Supervised ML as a Data Science and Business Analytics intern at The Sparks Foundation for the August 2021 batch. During the course of this task we had to predict the percentage of an student based on the number of study hours. Language used - Python3 Platform - jupyter notebook. Dataset-  http://bit.ly/w-data 
